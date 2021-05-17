@@ -1,5 +1,8 @@
 # Mack's Dead by Daylight Discord Bot
 
+## Table of Contents
+[Important Info]()
+
 ## Notes
 
 * Do not use spaces in arguments. Replace a space with a hyphen (-) when using the bot.
