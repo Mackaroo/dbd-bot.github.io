@@ -9,7 +9,8 @@
   * [Perks](https://github.com/mackaroo/dbd-bot/blob/main/README.md#perks)
   * [Status Effects](https://github.com/mackaroo/dbd-bot/blob/main/README.md#status-effects)
   * [Misc.](https://github.com/mackaroo/dbd-bot/blob/main/README.md#misc)
-
+* [Survivor Reference List]()
+* [Killer Reference List]()
 
 ## Notes
 
