@@ -3,8 +3,8 @@
 ## Commands
 * Do not use spaces in arguments. Replace a space with a hyphen (-) when using the bot.
 * Use the Killer's game name. 
- - Michael Myers = The Shape
- - Pyramid Head = The Executioner
+ * Michael Myers = The Shape
+ * Pyramid Head = The Executioner
 
 | Command  | Description                  | Example  |
 |----------|------------------------------|----------|
