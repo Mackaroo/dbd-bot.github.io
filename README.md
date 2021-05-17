@@ -11,7 +11,9 @@
 | `.killers` | List of all playable **Killers** | `.killers` |
 | `.survivors` | List of all playable **Survivors** | `.survivors` |
 | `.killer {killer-name}` | Gives information about the **Killer** | `.killer trapper` |
+
 ### Add-ons Commands
+
 | Command  | Description                  | Example  |
 |----------|------------------------------|----------|
 | `.addons {item}` | Lists the Item's available **Add-ons** | `.addons toolbox` |
