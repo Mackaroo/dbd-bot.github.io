@@ -3,12 +3,12 @@
 ## Table of Contents
 * [Important Info](https://github.com/mackaroo/dbd-bot/blob/main/README.md#notes)
 * [Commands](https://github.com/mackaroo/dbd-bot/blob/main/README.md#commands)
-  * Characters
-  * Add-ons
-  * Emblems
-  * Perks
-  * Status Effects
-  * Misc.
+  * [Characters](https://github.com/mackaroo/dbd-bot/blob/main/README.md#characters)
+  * [Add-ons](https://github.com/mackaroo/dbd-bot/blob/main/README.md#add-ons)
+  * [Emblems](https://github.com/mackaroo/dbd-bot/blob/main/README.md#emblems)
+  * [Perks](https://github.com/mackaroo/dbd-bot/blob/main/README.md#perks)
+  * [Status Effects](https://github.com/mackaroo/dbd-bot/blob/main/README.md#status_effects)
+  * [Misc.](https://github.com/mackaroo/dbd-bot/blob/main/README.md#misc.)
 
 
 ## Notes
