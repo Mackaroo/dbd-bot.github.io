@@ -57,3 +57,109 @@
 | ![Blight](https://imgur.com/GOZnf7m.png) | The Blight | • Dragon's Grip</br>• Hex: Blood Favour</br>• Hex: Undying</br> |
 | ![Twins](https://imgur.com/PDJqsJc.png) | The Twins | • Hoarder</br>• Oppression</br>• Coup de Grâce</br> |
 | ![Trickster](https://imgur.com/hWNcD58.png) | The Trickster | • Starstruck</br>• Hex: Crowd Control</br>• No Way Out</br> |
+
+
+# Achievements
+
+## Adept Survivor
+
+| Icon  | Name  | Description | - |
+|-------|-------|-------------|---|
+| ![]() | Adept Ace | In a public match, escape with Ace Visconti using only his 3 unique perks. | |
+| ![]() | Adept Adam | In a public match, escape with Adam Francis using only his 3 unique perks. | |
+| ![]() | Adept Ash | In a public match, escape with Ash Williams using only his 3 unique perks. | |
+| ![]() | Adept Bill | In a public match, escape with Bill Overbeck using only his 3 unique perks. | |
+| ![]() | Adept Cheryl | In a public match, escape with Cheryl Mason using only her 3 unique perks. | |
+| ![]() | Adept Claudette | In a public match, escape with Claudette Morel using only her 3 unique perks. | |
+| ![]() | Adept David | In a public match, escape with David King using only his 3 unique perks. | |
+| ![]() | Adept Dwight | In a public match, escape with Dwight Fairfield using only his 3 unique perks. | |
+| ![]() | Adept Élodie | In a public match, escape with Élodie Rakoto using only her 3 unique perks. | |
+| ![]() | Adept Felix | In a public match, escape with Felix Richter using only his 3 unique perks. | |
+| ![]() | Adept Jake | In a public match, escape with Jake Park using only his 3 unique perks. | |
+| ![]() | Adept Jane | In a public match, escape with Jane Romero using only her 3 unique perks. | :heavy_check_mark: |
+| ![]() | Adept Jeff | In a public match, escape with Jeff Johansen using only his 3 unique perks. | |
+| ![]() | Adept Kate | In a public match, escape with Kate Denson using only her 3 unique perks. | |
+| ![]() | Adept Laurie | In a public match, escape with Laurie Strode using only her 3 unique perks. | |
+| ![]() | Adept Meg | In a public match, escape with Meg Thomas using only her 3 unique perks. | :heavy_check_mark: |
+| ![]() | Adept Min | In a public match, escape with Feng Min using only her 3 unique perks. | |
+| ![]() | Adept Nancy | In a public match, escape with Nancy Wheeler using only her 3 unique perks. | |
+| ![]() | Adept Nea | In a public match, escape with Nea Karlsson using only her 3 unique perks. | |
+| ![]() | Adept Quentin | In a public match, escape with Quentin Smith using only his 3 unique perks. | |
+| ![]() | Adept Steve | In a public match, escape with Steve Harrington using only his 3 unique perks. | |
+| ![]() | Adept Tapp | In a public match, escape with David Tapp using only his 3 unique perks. | |
+| ![]() | Adept Yui | In a public match, escape with Yui Kimura using only her 3 unique perks. | |
+| ![]() | Adept Yun-Jin | In a public match, escape with Yun-Jin Lee using only her 3 unique perks. | |
+| ![]() | Adept Zarina | In a public match, escape with Zarina Kassir using only her 3 unique perks. | |
+
+
+## Adept Killer
+
+| Icon  | Name | Description | - |
+|-------|------|-------------|---|
+| ![]() | Adept Blight | Achieve a *Merciless Victory* with The Blight using only his 3 unique perks. | |
+| ![]() | Adept Cannibal | Achieve a *Merciless Victory* with The Cannibal using only his 3 unique perks. | |
+| ![]() | Adept Clown | Achieve a *Merciless Victory* with The Clwon using only his 3 unique perks. | |
+| ![]() | Adept Deathslinger | Achieve a *Merciless Victory* with The Deathslinger using only his 3 unique perks. | |
+| ![]() | Adept Demogorgon | Achieve a *Merciless Victory* with The Demogorgon using only his 3 unique perks. | |
+| ![]() | Adept Doctor | Achieve a *Merciless Victory* with The Doctor using only his 3 unique perks. | |
+| ![]() | Adept Executioner | Achieve a *Merciless Victory* with The Executioner using only his 3 unique perks. | |
+| ![]() | Adept Ghost Face | Achieve a *Merciless Victory* with The Ghost Face using only his 3 unique perks. | |
+| ![]() | Adept Hag | Achieve a *Merciless Victory* with The Hag using only her 3 unique perks. | |
+| ![]() | Adept Hillbilly | Achieve a *Merciless Victory* with The Hillbilly using only his 3 unique perks. | |
+| ![]() | Adept Huntress | Achieve a *Merciless Victory* with The Huntress using only her 3 unique perks. | |
+| ![]() | Adept Legion | Achieve a *Merciless Victory* with The Legion using only his 3 unique perks. | |
+| ![]() | Adept Nightmare | Achieve a *Merciless Victory* with The Nightmare using only his 3 unique perks. | |
+| ![]() | Adept Nurse | Achieve a *Merciless Victory* with The Nurse using only her 3 unique perks. | |
+| ![]() | Adept Oni | Achieve a *Merciless Victory* with The Oni using only his 3 unique perks. | |
+| ![]() | Adept Pig | Achieve a *Merciless Victory* with The Pig using only her 3 unique perks. | |
+| ![]() | Adept Plague | Achieve a *Merciless Victory* with The Plague using only her 3 unique perks. | |
+| ![]() | Adept Shape | Achieve a *Merciless Victory* with The Shape using only his 3 unique perks. | |
+| ![]() | Adept Spirit | Achieve a *Merciless Victory* with The Spirit using only her 3 unique perks. | |
+| ![]() | Adept Trapper | Achieve a *Merciless Victory* with The Trapper using only his 3 unique perks. | |
+| ![]() | Adept Twins | Achieve a *Merciless Victory* with The Twins using only their 3 unique perks. | |
+| ![]() | Adept Trickster | Achieve a *Merciless Victory* with The Trickster using only his 3 unique perks. | |
+| ![]() | Adept Wraith | Achieve a *Merciless Victory* with The Wraith using only his 3 unique perks. | |
+
+## Hidden
+
+| Icon  | Name | Description | - |
+|-------|------|-------------|---|
+| ![]() | Agonising Escape | Crawl your way out of the Exit Gates or into the Hatch. | |
+| ![]() | Where Did They Go?!? | With any Survivor, arrange for all Survivors to escape through the Hatch in a single Trial.</br>Requires the use of either the Skeleton Key or the Dull Key and the repair of all **5 Generators** to make the Hatch visible and interactable. | - |
+| ![]() | Blood in Your Mouth | Kill **25** Survivors.</br>Killing a Survivor is done by using one of the following:</br>* Memento Mori</br>* Hex: Devour Hope on **5** Tokens</br>* Rancor (only applies to the *Obsession*</br>* Judith's Tombstone or Tombstone Piece on The Shape</br>* *Reverse Bear Trap* from The Pig going off</br>* The Executioner's *Final Judgement* | - |
+| ![]() | Blood on Your Face | Kill **all** Survivors in a single Trial.</br>Killing a Survivor is done by using one of the following:</br>* Memento Mori</br>* Hex: Devour Hope on **5** Tokens</br>* Rancor (only applies to the *Obsession*</br>* Judith's Tombstone or Tombstone Piece on The Shape</br>* *Reverse Bear Trap* from The Pig going off</br>* The Executioner's *Final Judgement* | - |
+| ![]() | Blood on Your Hands | Kill your first Survivor.</br>Killing a Survivor is done by using one of the following:</br>* Memento Mori</br>* Hex: Devour Hope on **5** Tokens</br>* Rancor (only applies to the *Obsession*</br>* Judith's Tombstone or Tombstone Piece on The Shape</br>* *Reverse Bear Trap* from The Pig going off</br>* The Executioner's *Final Judgement* | - |
+| ![]() | Backdoor Escape | Escape from a Trial through the Hatch. | - | 
+| ![]() | Campbell's Chapel Legacy | Repair the Generator inside the Chapel on *Father Campbell's Chapel* and live to tell the tale. | - |
+| ![]() |
+| ![]() |
+| ![]() |
+| ![]() |
+| ![]() |
+| ![]() |
+| ![]() |
+| ![]() |
+| ![]() |
+| ![]() |
+
+
+
+
+## Map-Specific
+
+
+
+## Survivor-Specific
+
+
+
+
+## Killer-Specific
+
+
+
+## Progression 
+
+
+
+
