@@ -10,91 +10,91 @@
 - *Autodidact*
 - *Babysitter*
 - :purple_heart: Balanced Landing
-- Better Together :yellow_heart:
+- :yellow_heart: Better Together
 - *Bite the Bullet*
 - *Blast Mine*
 - *Blood Pact*
-- :purple_heart: Boil Over :purple_heart:
+- :purple_heart: Boil Over
 - *Bond*
-- :purple_heart: Borrowed Time :purple_heart:
-- :purple_heart: Botany Knowledge :purple_heart:
+- :purple_heart: Borrowed Time
+- :purple_heart: Botany Knowledge
 - *Breakdown*
-- :purple_heart: Breakout :purple_heart:
+- :purple_heart: Breakout
 - *Buckle Up*
-- :purple_heart: Built to Last :purple_heart:
-- :purple_heart: Calm Spirit :purple_heart:
+- :purple_heart: Built to Last
+- :purple_heart: Calm Spirit
 - *Camaraderie*
-- :purple_heart: Counterforce :purple_heart:
-- :purple_heart: Dance With Me :purple_heart:
-- :purple_heart: Dark Sense :purple_heart:
-- :purple_heart: Dead Hard :purple_heart:
-- :purple_heart: Deception :purple_heart:
-- :purple_heart: Decisive Strike :purple_heart:
-- :purple_heart: Deja Vu :purple_heart:
+- :purple_heart: Counterforce 
+- :purple_heart: Dance With Me 
+- :purple_heart: Dark Sense 
+- - :purple_heart: Dead Hard
+- :purple_heart: Deception
+- :purple_heart: Decisive Strike 
+- :purple_heart: Deja Vu 
 - *Deliverance*
 - *Desperate Measures*
 - *Detective's Hunch*
-- :purple_heart: Distortion :purple_heart:
+- :purple_heart: Distortion 
 - *Diversion*
-- :purple_heart: Empathy :purple_heart:
-- :purple_heart: Fast Track :purple_heart:
+- :purple_heart: Empathy
+- :purple_heart: Fast Track 
 - Fixated
 - *Flashbang*
-- :purple_heart: Flip-Flop :purple_heart:
+- :purple_heart: Flip-Flop
 - *For the People*
-- :purple_heart: Head On :purple_heart:
-- :purple_heart: Hope :purple_heart:
+- :purple_heart: Head On
+- :purple_heart: Hope
 - Inner Strength
-- :purple_heart: Iron Will :purple_heart:
+- :purple_heart: Iron Will
 - Kindred
 - *Leader*
-- Left Behind :yellow_heart:
+- :yellow_heart: Left Behind
 - Lightweight
-- :purple_heart: Lithe :purple_heart:
-- Lucky Break :yellow_heart:
+- :purple_heart: Lithe
+- :yellow_heart: Lucky Break
 - *Mettle of Man*
-- :purple_heart: No Mither :purple_heart:
-- :purple_heart: No One Left Behind :purple_heart:
+- :purple_heart: No Mither
+- :purple_heart: No One Left Behind
 - Object of Obsession
 - *Off the Record*
 - *Open-Handed*
 - *Pharmacy*
-- :purple_heart: Plunderer's Instinct :purple_heart:
-- Power Struggle :yellow_heart:
-- :purple_heart: Premonition :purple_heart:
-- :purple_heart: Prove Thyself :purple_heart:
-- :purple_heart: Quick & Quiet :purple_heart:
+- :purple_heart: Plunderer's Instinct
+- :yellow_heart: Power Struggle
+- :purple_heart: Premonition
+- :purple_heart: Prove Thyself
+- :purple_heart: Quick & Quiet 
 - *Red Herring*
 - *Repressed Alliance*
-- :purple_heart: Resilience :purple_heart:
+- :purple_heart: Resilience 
 - *Resurgence*
 - *Rookie Spirit*
-- :purple_heart: Saboteur :purple_heart:
+- :purple_heart: Saboteur
 - *Second Wind*
-- :purple_heart: Self-Care :purple_heart:
-- Self-Preservation :yellow_heart:
-- :purple_heart: Slippery Meat :purple_heart:
-- :purple_heart: Small Game :purple_heart:
-- Smash Hit :yellow_heart:
-- :purple_heart: Sole Survivor :purple_heart:
-- :purple_heart: Solidarity :purple_heart:
+- :purple_heart: Self-Care
+- :yellow_heart: Self-Preservation
+- :purple_heart: Slippery Meat
+- :purple_heart: Small Game 
+- :yellow_heart: Smash Hit
+- :purple_heart: Sole Survivor
+- :purple_heart: Solidarity
 - *Soul Guard*
-- :purple_heart: Spine Chill :purple_heart:
-- :purple_heart: Sprint Burst :purple_heart:
+- :purple_heart: Spine Chill
+- :purple_heart: Sprint Burst
 - *Stake Out*
-- :purple_heart: Streetwise :purple_heart:
+- :purple_heart: Streetwise
 - Technician
 - *Tenacity*
-- :purple_heart: This is Not Happening :purple_heart:
-- :purple_heart: Unbreakable :purple_heart:
+- :purple_heart: This is Not Happening
+- :purple_heart: Unbreakable
 - *Up the Ante*
-- :purple_heart: Urban Evasion :purple_heart:
+- :purple_heart: Urban Evasion
 - *Vigil*
 - *Visionary*
 - *Wake Up!*
-- :purple_heart: We'll Make It :purple_heart:
-- :purple_heart: We're Gonna Live Forever :purple_heart:
-- :purple_heart: Windows of Opportunity :purple_heart: 
+- :purple_heart: We'll Make It
+- :purple_heart: We're Gonna Live Forever
+- :purple_heart: Windows of Opportunity 
 
 ## Survivor
 
