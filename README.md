@@ -4,7 +4,7 @@
 
 | Portrait | Name | Base Perks |
 |----------|---------------|-------------|
-| ![Dwight](https://imgur.com/JR036vJ.png) | Dwight Fairfield | • Bond</br>• Prove Thyself</br>• Leader |
+| ![Dwight](https://imgur.com/JR036vJ.png) | Dwight Fairfield | • Bond</br>• Prove Thyself :heavy_check_mark: </br>• Leader |
 | ![Meg](https://imgur.com/G83WZjw.png) | Meg Thomas | • Quick & Quiet :heavy_check_mark: </br>• Sprint Burst :heavy_check_mark: </br>• Adrenaline :heavy_check_mark: |
 | ![Claudette](https://imgur.com/Pw60B5v.png) | Claudette Morel | • Empathy :heavy_check_mark: </br>• Botany Knowledge :heavy_check_mark: </br>• Self-Care :heavy_check_mark: |
 | ![Jake](https://imgur.com/SfePMpN.png) | Jake Park | • Iron Will :heavy_check_mark: </br>• Calm Spirit :heavy_check_mark:  </br>• Saboteur :heavy_check_mark: |
