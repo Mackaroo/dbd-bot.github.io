@@ -30,6 +30,103 @@
 | ![Elodie](https://imgur.com/np7deOY.png) | Élodie Rakoto | • Appraisal :heavy_check_mark: </br>• Deception :heavy_check_mark: </br>• Power Struggle :heavy_check_mark: |
 | ![Yun-Jin](https://imgur.com/CovLWpq.png) | Yun-Jin Lee | • Fast Track :heavy_check_mark: </br>• Smash Hit :heavy_check_mark: </br>• Self-Preservation :heavy_check_mark: |
 
+### Prestige III Meg Thomas
+- Ace in the Hole
+- Adrenaline :purple_heart: 
+- Aftercare
+- Alert :purple_heart:
+- Any Means Necessary
+- Appraisal
+- Autodidact
+- Babysitter
+- Balanced Landing :purple_heart:
+- Better Together :yellow_heart:
+- Bite the Bullet
+- Blast Mine
+- Blood Pact
+- Boil Over :purple_heart:
+- Bond
+- Borrowed Time :purple_heart:
+- Botany Knowledge :purple_heart:
+- Breakdown
+- Breakout :purple_heart:
+- Buckle Up
+- Built to Last :purple_heart:
+- Calm Spirit :purple_heart:
+- Camaraderie
+- Counterforce :purple_heart:
+- Dance With Me :purple_heart:
+- Dark Sense :purple_heart:
+- Dead Hard :purple_heart:
+- Deception :purple_heart:
+- Decisive Strike :purple_heart:
+- Deja Vu :purple_heart:
+- Deliverance
+- Desperate Measures
+- Detective's Hunch
+- Distortion :purple_heart:
+- Diversion
+- Empathy :purple_heart:
+- Fast Track :purple_heart:
+- Fixated
+- Flashbang
+- Flip-Flop :purple_heart:
+- For the People
+- Head On :purple_heart:
+- Hope :purple_heart:
+- Inner Strength
+- Iron Will :purple_heart:
+- Kindred
+- Leader
+- Left Behind :yellow_heart:
+- Lightweight
+- Lithe :purple_heart:
+- Lucky Break :yellow_heart:
+- Mettle of Man
+- No Mither :purple_heart:
+- No One Left Behind :purple_heart:
+- Object of Obsession
+- Off the Record
+- Open-Handed
+- Pharmacy
+- Plunderer's Instinct :purple_heart:
+- Poised :purple_heart:
+- Power Struggle :yellow_heart:
+- Premonition :purple_heart:
+- Prove Thyself :purple_heart:
+- Quick & Quiet :purple_heart:
+- Red Herring
+- Repressed Alliance
+- Resilience :purple_heart:
+- Resurgence
+- Rookie Spirit
+- Saboteur :purple_heart:
+- Second Wind
+- Self-Care :purple_heart:
+- Self-Preservation :yellow_heart:
+- Slippery Meat :purple_heart:
+- Small Game :purple_heart:
+- Smash Hit :yellow_heart:
+- Sole Survivor :purple_heart:
+- Solidarity :purple_heart:
+- Soul Guard
+- Spine Chill :purple_heart:
+- Sprint Burst :purple_heart:
+- Stake Out
+- Streetwise :purple_heart:
+- Technician
+- Tenacity
+- This is Not Happening :purple_heart:
+- Unbreakable :purple_heart:
+- Up the Ante
+- Urban Evasion :purple_heart:
+- Vigil
+- Visionary
+- Wake Up!
+- We'll Make It :purple_heart:
+- We're Gonna Live Forever :purple_heart:
+- Windows of Opportunity :purple_heart:
+
 ## Killers
 
 | Portrait | Name | Base Perks |
