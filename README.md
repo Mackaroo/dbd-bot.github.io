@@ -20,7 +20,7 @@
 | ![Adam](https://imgur.com/CVQGi2Y.png) | Adam Francis | • Diversion</br>• Deliverance</br>• Autodidact |
 | ![Jeff](https://imgur.com/E036zbr.png) | Jeff Johansen | • Breakdown</br>• Aftercare</br>• Distortion :heavy_check_mark: |
 | ![Jane](https://imgur.com/9A4uYlr.png) | Jane Romero | • Solidarity :heavy_check_mark: </br>• Poised :heavy_check_mark: </br>• Head On :heavy_check_mark:  |
-| ![Ash](https://imgur.com/NDPoGH2.png) | Ash Williams | • Flip-Flop</br>• Buckle Up</br>• Mettle of Man |
+| ![Ash](https://imgur.com/NDPoGH2.png) | Ash Williams | • Flip-Flop :heavy_check_mark: </br>• Buckle Up</br>• Mettle of Man |
 | ![Nancy](https://imgur.com/xqrEmwa.png) | Nancy Wheeler | • Better Together :heavy_check_mark: </br>• Fixated :heavy_check_mark: </br>• Inner Strength :heavy_check_mark:  |
 | ![Steve](https://imgur.com/nrJLdgj.png) | Steve Harrington | • Babysitter</br>• Camaraderie</br>• Second Wind |
 | ![Yui](https://imgur.com/uB8ExUm.png) | Yui Kimura | • Lucky Break :heavy_check_mark: </br>• Any Means Necessary :heavy_check_mark: </br>• Breakout :heavy_check_mark: |
