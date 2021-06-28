@@ -18,7 +18,7 @@
 | ![Tapp](https://imgur.com/cw66uRS.png) | David Tapp | • Tenacity</br>• Detective's Hunch</br>• Stake Out |
 | ![Kate](https://imgur.com/3mhJZ99.png) | Kate Denson | • Dance With Me :heavy_check_mark: </br>• Windows of Opportunity :heavy_check_mark: </br>• Boil Over :heavy_check_mark:  |
 | ![Adam](https://imgur.com/CVQGi2Y.png) | Adam Francis | • Diversion</br>• Deliverance</br>• Autodidact |
-| ![Jeff](https://imgur.com/E036zbr.png) | Jeff Johansen | • Breakdown</br>• Aftercare</br>• Distortion |
+| ![Jeff](https://imgur.com/E036zbr.png) | Jeff Johansen | • Breakdown</br>• Aftercare</br>• Distortion :heavy_check_mark: |
 | ![Jane](https://imgur.com/9A4uYlr.png) | Jane Romero | • Solidarity :heavy_check_mark: </br>• Poised :heavy_check_mark: </br>• Head On :heavy_check_mark:  |
 | ![Ash](https://imgur.com/NDPoGH2.png) | Ash Williams | • Flip-Flop</br>• Buckle Up</br>• Mettle of Man |
 | ![Nancy](https://imgur.com/xqrEmwa.png) | Nancy Wheeler | • Better Together :heavy_check_mark: </br>• Fixated :heavy_check_mark: </br>• Inner Strength :heavy_check_mark:  |
