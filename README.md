@@ -1,5 +1,101 @@
 # Perk Progression
 
+### Prestige III Meg Thomas
+- *Ace in the Hole*
+- :purple_heart: Adrenaline :purple_heart: 
+- *Aftercare*
+- :purple_heart: Alert :purple_heart:
+- Any Means Necessary
+- Appraisal
+- *Autodidact*
+- *Babysitter*
+- :purple_heart: Balanced Landing :purple_heart:
+- Better Together :yellow_heart:
+- *Bite the Bullet*
+- *Blast Mine*
+- *Blood Pact*
+- :purple_heart: Boil Over :purple_heart:
+- *Bond*
+- :purple_heart: Borrowed Time :purple_heart:
+- :purple_heart: Botany Knowledge :purple_heart:
+- *Breakdown*
+- :purple_heart: Breakout :purple_heart:
+- *Buckle Up*
+- :purple_heart: Built to Last :purple_heart:
+- :purple_heart: Calm Spirit :purple_heart:
+- *Camaraderie*
+- :purple_heart: Counterforce :purple_heart:
+- :purple_heart: Dance With Me :purple_heart:
+- :purple_heart: Dark Sense :purple_heart:
+- :purple_heart: Dead Hard :purple_heart:
+- :purple_heart: Deception :purple_heart:
+- :purple_heart: Decisive Strike :purple_heart:
+- :purple_heart: Deja Vu :purple_heart:
+- *Deliverance*
+- *Desperate Measures*
+- *Detective's Hunch*
+- :purple_heart: Distortion :purple_heart:
+- *Diversion*
+- :purple_heart: Empathy :purple_heart:
+- :purple_heart: Fast Track :purple_heart:
+- Fixated
+- *Flashbang*
+- :purple_heart: Flip-Flop :purple_heart:
+- *For the People*
+- :purple_heart: Head On :purple_heart:
+- :purple_heart: Hope :purple_heart:
+- Inner Strength
+- :purple_heart: Iron Will :purple_heart:
+- Kindred
+- *Leader*
+- Left Behind :yellow_heart:
+- Lightweight
+- :purple_heart: Lithe :purple_heart:
+- Lucky Break :yellow_heart:
+- *Mettle of Man*
+- :purple_heart: No Mither :purple_heart:
+- :purple_heart: No One Left Behind :purple_heart:
+- Object of Obsession
+- *Off the Record*
+- *Open-Handed*
+- *Pharmacy*
+- :purple_heart: Plunderer's Instinct :purple_heart:
+- Power Struggle :yellow_heart:
+- :purple_heart: Premonition :purple_heart:
+- :purple_heart: Prove Thyself :purple_heart:
+- :purple_heart: Quick & Quiet :purple_heart:
+- *Red Herring*
+- *Repressed Alliance*
+- :purple_heart: Resilience :purple_heart:
+- *Resurgence*
+- *Rookie Spirit*
+- :purple_heart: Saboteur :purple_heart:
+- *Second Wind*
+- :purple_heart: Self-Care :purple_heart:
+- Self-Preservation :yellow_heart:
+- :purple_heart: Slippery Meat :purple_heart:
+- :purple_heart: Small Game :purple_heart:
+- Smash Hit :yellow_heart:
+- :purple_heart: Sole Survivor :purple_heart:
+- :purple_heart: Solidarity :purple_heart:
+- *Soul Guard*
+- :purple_heart: Spine Chill :purple_heart:
+- :purple_heart: Sprint Burst :purple_heart:
+- *Stake Out*
+- :purple_heart: Streetwise :purple_heart:
+- Technician
+- *Tenacity*
+- :purple_heart: This is Not Happening :purple_heart:
+- :purple_heart: Unbreakable :purple_heart:
+- *Up the Ante*
+- :purple_heart: Urban Evasion :purple_heart:
+- *Vigil*
+- *Visionary*
+- *Wake Up!*
+- :purple_heart: We'll Make It :purple_heart:
+- :purple_heart: We're Gonna Live Forever :purple_heart:
+- :purple_heart: Windows of Opportunity :purple_heart: 
+
 ## Survivor
 
 | Portrait | Name | Base Perks |
@@ -30,102 +126,7 @@
 | ![Elodie](https://imgur.com/np7deOY.png) | Élodie Rakoto | • Appraisal :heavy_check_mark: </br>• Deception :heavy_check_mark: </br>• Power Struggle :heavy_check_mark: |
 | ![Yun-Jin](https://imgur.com/CovLWpq.png) | Yun-Jin Lee | • Fast Track :heavy_check_mark: </br>• Smash Hit :heavy_check_mark: </br>• Self-Preservation :heavy_check_mark: |
 
-### Prestige III Meg Thomas
-- *Ace in the Hole*
-- Adrenaline :purple_heart: 
-- *Aftercare*
-- Alert :purple_heart:
-- Any Means Necessary
-- Appraisal
-- *Autodidact*
-- *Babysitter*
-- Balanced Landing :purple_heart:
-- Better Together :yellow_heart:
-- *Bite the Bullet*
-- *Blast Mine*
-- *Blood Pact*
-- Boil Over :purple_heart:
-- *Bond*
-- Borrowed Time :purple_heart:
-- Botany Knowledge :purple_heart:
-- *Breakdown*
-- Breakout :purple_heart:
-- *Buckle Up*
-- Built to Last :purple_heart:
-- Calm Spirit :purple_heart:
-- *Camaraderie*
-- Counterforce :purple_heart:
-- Dance With Me :purple_heart:
-- Dark Sense :purple_heart:
-- Dead Hard :purple_heart:
-- Deception :purple_heart:
-- Decisive Strike :purple_heart:
-- Deja Vu :purple_heart:
-- *Deliverance*
-- *Desperate Measures*
-- *Detective's Hunch*
-- Distortion :purple_heart:
-- *Diversion*
-- Empathy :purple_heart:
-- Fast Track :purple_heart:
-- Fixated
-- *Flashbang*
-- Flip-Flop :purple_heart:
-- *For the People*
-- Head On :purple_heart:
-- Hope :purple_heart:
-- Inner Strength
-- Iron Will :purple_heart:
-- Kindred
-- *Leader*
-- Left Behind :yellow_heart:
-- Lightweight
-- Lithe :purple_heart:
-- Lucky Break :yellow_heart:
-- *Mettle of Man*
-- No Mither :purple_heart:
-- No One Left Behind :purple_heart:
-- Object of Obsession
-- *Off the Record*
-- *Open-Handed*
-- *Pharmacy*
-- Plunderer's Instinct :purple_heart:
-- Poised :purple_heart:
-- Power Struggle :yellow_heart:
-- Premonition :purple_heart:
-- Prove Thyself :purple_heart:
-- Quick & Quiet :purple_heart:
-- *Red Herring*
-- *Repressed Alliance*
-- Resilience :purple_heart:
-- *Resurgence*
-- *Rookie Spirit*
-- Saboteur :purple_heart:
-- *Second Wind*
-- Self-Care :purple_heart:
-- Self-Preservation :yellow_heart:
-- Slippery Meat :purple_heart:
-- Small Game :purple_heart:
-- Smash Hit :yellow_heart:
-- Sole Survivor :purple_heart:
-- Solidarity :purple_heart:
-- *Soul Guard*
-- Spine Chill :purple_heart:
-- Sprint Burst :purple_heart:
-- *Stake Out*
-- Streetwise :purple_heart:
-- Technician
-- *Tenacity*
-- This is Not Happening :purple_heart:
-- Unbreakable :purple_heart:
-- *Up the Ante*
-- Urban Evasion :purple_heart:
-- *Vigil*
-- *Visionary*
-- *Wake Up!*
-- We'll Make It :purple_heart:
-- We're Gonna Live Forever :purple_heart:
-- Windows of Opportunity :purple_heart:
+
 
 ## Killers
 
