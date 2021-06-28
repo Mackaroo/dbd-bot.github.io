@@ -2,14 +2,14 @@
 
 ### Prestige III Meg Thomas
 - *Ace in the Hole*
-- :purple_heart: Adrenaline :purple_heart: 
+- :purple_heart: Adrenaline
 - *Aftercare*
-- :purple_heart: Alert :purple_heart:
+- :purple_heart: Alert
 - Any Means Necessary
 - Appraisal
 - *Autodidact*
 - *Babysitter*
-- :purple_heart: Balanced Landing :purple_heart:
+- :purple_heart: Balanced Landing
 - Better Together :yellow_heart:
 - *Bite the Bullet*
 - *Blast Mine*
