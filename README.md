@@ -2,99 +2,99 @@
 
 ### Prestige III Meg Thomas
 - *Ace in the Hole*
-- :purple_heart: Adrenaline
+- 💜 Adrenaline
 - *Aftercare*
-- :purple_heart: Alert
+- 💜 Alert
 - Any Means Necessary
 - Appraisal
 - *Autodidact*
 - *Babysitter*
-- :purple_heart: Balanced Landing
-- :yellow_heart: Better Together
+- 💜 Balanced Landing
+- 💛 Better Together
 - *Bite the Bullet*
 - *Blast Mine*
 - *Blood Pact*
-- :purple_heart: Boil Over
+- 💜 Boil Over
 - *Bond*
-- :purple_heart: Borrowed Time
-- :purple_heart: Botany Knowledge
+- 💜 Borrowed Time
+- 💜 Botany Knowledge
 - *Breakdown*
-- :purple_heart: Breakout
+- 💜 Breakout
 - *Buckle Up*
-- :purple_heart: Built to Last
-- :purple_heart: Calm Spirit
+- 💜 Built to Last
+- 💜 Calm Spirit
 - *Camaraderie*
-- :purple_heart: Counterforce 
-- :purple_heart: Dance With Me 
-- :purple_heart: Dark Sense 
-- :purple_heart: Dead Hard
-- :purple_heart: Deception
-- :purple_heart: Decisive Strike 
-- :purple_heart: Deja Vu 
+- 💜 Counterforce 
+- 💜 Dance With Me 
+- 💜 Dark Sense 
+- 💜 Dead Hard
+- 💜 Deception
+- 💜 Decisive Strike 
+- 💜 Deja Vu 
 - *Deliverance*
 - *Desperate Measures*
 - *Detective's Hunch*
-- :purple_heart: Distortion 
+- 💜 Distortion 
 - *Diversion*
-- :purple_heart: Empathy
-- :purple_heart: Fast Track 
+- 💜 Empathy
+- 💜 Fast Track 
 - Fixated
 - *Flashbang*
-- :purple_heart: Flip-Flop
+- 💜 Flip-Flop
 - *For the People*
-- :purple_heart: Head On
-- :purple_heart: Hope
+- 💜 Head On
+- 💜 Hope
 - Inner Strength
-- :purple_heart: Iron Will
-- Kindred
+- 💜 Iron Will
+- 💛 Kindred
 - *Leader*
-- :yellow_heart: Left Behind
+- 💛 Left Behind
 - Lightweight
-- :purple_heart: Lithe
-- :yellow_heart: Lucky Break
+- 💜 Lithe
+- 💛 Lucky Break
 - *Mettle of Man*
-- :purple_heart: No Mither
-- :purple_heart: No One Left Behind
+- 💜 No Mither
+- 💜 No One Left Behind
 - Object of Obsession
 - *Off the Record*
 - *Open-Handed*
 - *Pharmacy*
-- :purple_heart: Plunderer's Instinct
-- :yellow_heart: Power Struggle
-- :purple_heart: Premonition
-- :purple_heart: Prove Thyself
-- :purple_heart: Quick & Quiet 
+- 💜 Plunderer's Instinct
+- 💛 Power Struggle
+- 💜 Premonition
+- 💜 Prove Thyself
+- 💜 Quick & Quiet 
 - *Red Herring*
 - *Repressed Alliance*
-- :purple_heart: Resilience 
+- 💜 Resilience 
 - *Resurgence*
 - *Rookie Spirit*
-- :purple_heart: Saboteur
+- 💜 Saboteur
 - *Second Wind*
-- :purple_heart: Self-Care
-- :yellow_heart: Self-Preservation
-- :purple_heart: Slippery Meat
-- :purple_heart: Small Game 
-- :yellow_heart: Smash Hit
-- :purple_heart: Sole Survivor
-- :purple_heart: Solidarity
+- 💜 Self-Care
+- 💛 Self-Preservation
+- 💜 Slippery Meat
+- 💜 Small Game 
+- 💛 Smash Hit
+- 💜 Sole Survivor
+- 💜 Solidarity
 - *Soul Guard*
-- :purple_heart: Spine Chill
-- :purple_heart: Sprint Burst
+- 💜 Spine Chill
+- 💜 Sprint Burst
 - *Stake Out*
-- :purple_heart: Streetwise
+- 💜 Streetwise
 - Technician
 - *Tenacity*
-- :purple_heart: This is Not Happening
-- :purple_heart: Unbreakable
+- 💜 This is Not Happening
+- 💜 Unbreakable
 - *Up the Ante*
-- :purple_heart: Urban Evasion
+- 💜 Urban Evasion
 - *Vigil*
 - *Visionary*
 - *Wake Up!*
-- :purple_heart: We'll Make It
-- :purple_heart: We're Gonna Live Forever
-- :purple_heart: Windows of Opportunity 
+- 💜 We'll Make It
+- 💜 We're Gonna Live Forever
+- 💜 Windows of Opportunity 
 
 ## Survivor
 
