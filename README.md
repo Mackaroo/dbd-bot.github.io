@@ -27,7 +27,7 @@
 - :purple_heart: Counterforce 
 - :purple_heart: Dance With Me 
 - :purple_heart: Dark Sense 
-- - :purple_heart: Dead Hard
+- :purple_heart: Dead Hard
 - :purple_heart: Deception
 - :purple_heart: Decisive Strike 
 - :purple_heart: Deja Vu 
