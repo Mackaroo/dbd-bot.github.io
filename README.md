@@ -5,12 +5,12 @@
 - 💜 Adrenaline
 - *Aftercare*
 - 💜 Alert
-- Any Means Necessary
+- 💛 Any Means Necessary
 - Appraisal
 - *Autodidact*
 - *Babysitter*
 - 💜 Balanced Landing
-- 💛 Better Together
+- 💜 Better Together
 - *Bite the Bullet*
 - *Blast Mine*
 - *Blood Pact*
@@ -38,17 +38,17 @@
 - *Diversion*
 - 💜 Empathy
 - 💜 Fast Track 
-- Fixated
+- 💛 Fixated
 - *Flashbang*
 - 💜 Flip-Flop
 - *For the People*
 - 💜 Head On
 - 💜 Hope
-- Inner Strength
+- 💜 Inner Strength
 - 💜 Iron Will
 - 💛 Kindred
 - *Leader*
-- 💛 Left Behind
+- 💜 Left Behind
 - Lightweight
 - 💜 Lithe
 - 💛 Lucky Break
