@@ -30,7 +30,7 @@
 - 💜 Dead Hard
 - 💜 Deception
 - 💜 Decisive Strike 
-- 💜 Deja Vu 
+- 💜 Déjà Vu 
 - *Deliverance*
 - *Desperate Measures*
 - *Detective's Hunch*
