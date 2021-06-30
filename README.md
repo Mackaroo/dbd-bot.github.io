@@ -5,8 +5,8 @@
 - 💜 Adrenaline
 - *Aftercare*
 - 💜 Alert
-- 💛 Any Means Necessary
-- Appraisal
+- 💜 Any Means Necessary
+- 💜 Appraisal
 - *Autodidact*
 - *Babysitter*
 - 💜 Balanced Landing
@@ -38,7 +38,7 @@
 - *Diversion*
 - 💜 Empathy
 - 💜 Fast Track 
-- 💛 Fixated
+- 💜 Fixated
 - *Flashbang*
 - 💜 Flip-Flop
 - *For the People*
@@ -46,21 +46,21 @@
 - 💜 Hope
 - 💜 Inner Strength
 - 💜 Iron Will
-- 💛 Kindred
+- 💜 Kindred
 - *Leader*
 - 💜 Left Behind
-- Lightweight
+- 💜 Lightweight
 - 💜 Lithe
-- 💛 Lucky Break
+- 💜 Lucky Break
 - *Mettle of Man*
 - 💜 No Mither
 - 💜 No One Left Behind
-- Object of Obsession
+- 💜 Object of Obsession
 - *Off the Record*
 - *Open-Handed*
 - *Pharmacy*
 - 💜 Plunderer's Instinct
-- 💛 Power Struggle
+- 💜 Power Struggle
 - 💜 Premonition
 - 💜 Prove Thyself
 - 💜 Quick & Quiet 
@@ -72,7 +72,7 @@
 - 💜 Saboteur
 - *Second Wind*
 - 💜 Self-Care
-- 💛 Self-Preservation
+- 💜 Self-Preservation
 - 💜 Slippery Meat
 - 💜 Small Game 
 - 💛 Smash Hit
@@ -83,7 +83,7 @@
 - 💜 Sprint Burst
 - *Stake Out*
 - 💜 Streetwise
-- Technician
+- 💜 Technician
 - *Tenacity*
 - 💜 This is Not Happening
 - 💜 Unbreakable
