@@ -75,7 +75,7 @@
 - 💜 Self-Preservation
 - 💜 Slippery Meat
 - 💜 Small Game 
-- 💛 Smash Hit
+- 💜 Smash Hit
 - 💜 Sole Survivor
 - 💜 Solidarity
 - *Soul Guard*
