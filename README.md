@@ -100,31 +100,33 @@
 
 | Portrait | Name | Base Perks |
 |----------|---------------|-------------|
-| ![Dwight](https://imgur.com/JR036vJ.png) | Dwight Fairfield | • Bond</br>• Prove Thyself :heavy_check_mark: </br>• Leader |
-| ![Meg](https://imgur.com/G83WZjw.png) | Meg Thomas | • Quick & Quiet :heavy_check_mark: </br>• Sprint Burst :heavy_check_mark: </br>• Adrenaline :heavy_check_mark: |
-| ![Claudette](https://imgur.com/Pw60B5v.png) | Claudette Morel | • Empathy :heavy_check_mark: </br>• Botany Knowledge :heavy_check_mark: </br>• Self-Care :heavy_check_mark: |
-| ![Jake](https://imgur.com/SfePMpN.png) | Jake Park | • Iron Will :heavy_check_mark: </br>• Calm Spirit :heavy_check_mark:  </br>• Saboteur :heavy_check_mark: |
-| ![Nea](https://imgur.com/i9r06CZ.png) | Nea Karlsson | • Balanced Landing :heavy_check_mark: </br>• Urban Evasion :heavy_check_mark: </br>• Streetwise :heavy_check_mark: |
-| ![Laurie](https://imgur.com/A3njdQX.png) | Laurie Strode | • Sole Survivor :heavy_check_mark: </br>• Object of Obsession :heavy_check_mark: </br>• Decisive Strike :heavy_check_mark: |
-| ![Ace](https://imgur.com/WDmdyPv.png) | Ace Visconti | • Open-Handed</br>• Up the Ante</br>• Ace in the Hole |
-| ![Bill](https://imgur.com/Z5IDYRw.png) | William "Bill" Overbeck | • Left Behind :heavy_check_mark: </br>• Borrowed Time :heavy_check_mark: </br>• Unbreakable :heavy_check_mark: |
-| ![Feng](https://imgur.com/wlGEYJy.png) | Feng Min | • Technician :heavy_check_mark: </br>• Lithe :heavy_check_mark: </br>• Alert :heavy_check_mark: |
-| ![David](https://imgur.com/yF4Qezw.png) | David King | • We're Gonna Live Forever :heavy_check_mark: </br>• Dead Hard :heavy_check_mark: </br>• No Mither :heavy_check_mark: |
+| ![Dwight](https://imgur.com/JR036vJ.png) | Dwight Fairfield | • Bond ✔️ </br>• Prove Thyself ✔️ </br>• Leader ✔️ |
+| ![Meg](https://imgur.com/G83WZjw.png) | Meg Thomas | • Quick & Quiet ✔️ </br>• Sprint Burst ✔️ </br>• Adrenaline ✔️ |
+| ![Claudette](https://imgur.com/Pw60B5v.png) | Claudette Morel | • Empathy ✔️ </br>• Botany Knowledge ✔️ </br>• Self-Care ✔️ |
+| ![Jake](https://imgur.com/SfePMpN.png) | Jake Park | • Iron Will ✔️ </br>• Calm Spirit ✔️  </br>• Saboteur ✔️ |
+| ![Nea](https://imgur.com/i9r06CZ.png) | Nea Karlsson | • Balanced Landing ✔️ </br>• Urban Evasion ✔️ </br>• Streetwise ✔️ |
+| ![Laurie](https://imgur.com/A3njdQX.png) | Laurie Strode | • Sole Survivor ✔️ </br>• Object of Obsession ✔️ </br>• Decisive Strike ✔️ |
+| ![Ace](https://imgur.com/WDmdyPv.png) | Ace Visconti | • Open-Handed ✔️ </br>• Up the Ante</br>• Ace in the Hole |
+| ![Bill](https://imgur.com/Z5IDYRw.png) | William "Bill" Overbeck | • Left Behind ✔️ </br>• Borrowed Time ✔️ </br>• Unbreakable ✔️ |
+| ![Feng](https://imgur.com/wlGEYJy.png) | Feng Min | • Technician ✔️ </br>• Lithe ✔️ </br>• Alert ✔️ |
+| ![David](https://imgur.com/yF4Qezw.png) | David King | • We're Gonna Live Forever ✔️ </br>• Dead Hard ✔️ </br>• No Mither ✔️ |
 | ![Quentin](https://imgur.com/NaJJurO.png) | Quentin Smith | • Wake Up!</br>• Pharmacy</br>• Vigil |
 | ![Tapp](https://imgur.com/cw66uRS.png) | David Tapp | • Tenacity</br>• Detective's Hunch</br>• Stake Out |
-| ![Kate](https://imgur.com/3mhJZ99.png) | Kate Denson | • Dance With Me :heavy_check_mark: </br>• Windows of Opportunity :heavy_check_mark: </br>• Boil Over :heavy_check_mark:  |
+| ![Kate](https://imgur.com/3mhJZ99.png) | Kate Denson | • Dance With Me ✔️ </br>• Windows of Opportunity ✔️ </br>• Boil Over ✔️  |
 | ![Adam](https://imgur.com/CVQGi2Y.png) | Adam Francis | • Diversion</br>• Deliverance</br>• Autodidact |
-| ![Jeff](https://imgur.com/E036zbr.png) | Jeff Johansen | • Breakdown</br>• Aftercare</br>• Distortion :heavy_check_mark: |
-| ![Jane](https://imgur.com/9A4uYlr.png) | Jane Romero | • Solidarity :heavy_check_mark: </br>• Poised :heavy_check_mark: </br>• Head On :heavy_check_mark:  |
-| ![Ash](https://imgur.com/NDPoGH2.png) | Ash Williams | • Flip-Flop :heavy_check_mark: </br>• Buckle Up</br>• Mettle of Man |
-| ![Nancy](https://imgur.com/xqrEmwa.png) | Nancy Wheeler | • Better Together :heavy_check_mark: </br>• Fixated :heavy_check_mark: </br>• Inner Strength :heavy_check_mark:  |
+| ![Jeff](https://imgur.com/E036zbr.png) | Jeff Johansen | • Breakdown</br>• Aftercare</br>• Distortion ✔️ |
+| ![Jane](https://imgur.com/9A4uYlr.png) | Jane Romero | • Solidarity ✔️ </br>• Poised ✔️ </br>• Head On ✔️  |
+| ![Ash](https://imgur.com/NDPoGH2.png) | Ash Williams | • Flip-Flop ✔️ </br>• Buckle Up ✔️ </br>• Mettle of Man ✔️ |
+| ![Nancy](https://imgur.com/xqrEmwa.png) | Nancy Wheeler | • Better Together ✔️ </br>• Fixated ✔️ </br>• Inner Strength ✔️  |
 | ![Steve](https://imgur.com/nrJLdgj.png) | Steve Harrington | • Babysitter</br>• Camaraderie</br>• Second Wind |
-| ![Yui](https://imgur.com/uB8ExUm.png) | Yui Kimura | • Lucky Break :heavy_check_mark: </br>• Any Means Necessary :heavy_check_mark: </br>• Breakout :heavy_check_mark: |
+| ![Yui](https://imgur.com/uB8ExUm.png) | Yui Kimura | • Lucky Break ✔️ </br>• Any Means Necessary ✔️ </br>• Breakout ✔️ |
 | ![Zarina](https://imgur.com/lD0WzfH.png) | Zarina Kassir | • Off the Record</br>• Red Herring</br>• For the People |
 | ![Cheryl](https://imgur.com/ga7at48.png) | Cheryl Mason | • Soul Guard</br>• Blood Pact</br>• Repressed Alliance |
-| ![Felix](https://imgur.com/xSaoAVQ.png) | Felix Richter | • Visionary</br>• Desperate Measures</br>• Built to Last :heavy_check_mark:  |
-| ![Elodie](https://imgur.com/np7deOY.png) | Élodie Rakoto | • Appraisal :heavy_check_mark: </br>• Deception :heavy_check_mark: </br>• Power Struggle :heavy_check_mark: |
-| ![Yun-Jin](https://imgur.com/CovLWpq.png) | Yun-Jin Lee | • Fast Track :heavy_check_mark: </br>• Smash Hit :heavy_check_mark: </br>• Self-Preservation :heavy_check_mark: |
+| ![Felix](https://imgur.com/xSaoAVQ.png) | Felix Richter | • Visionary</br>• Desperate Measures</br>• Built to Last ✔️  |
+| ![Elodie](https://imgur.com/np7deOY.png) | Élodie Rakoto | • Appraisal ✔️ </br>• Deception ✔️ </br>• Power Struggle ✔️ |
+| ![Yun-Jin](https://imgur.com/CovLWpq.png) | Yun-Jin Lee | • Fast Track ✔️ </br>• Smash Hit ✔️ </br>• Self-Preservation ✔️ |
+| ![Jill](https://imgur.com/JjunDLk.png) | Jill Valentine | • Counterforce ✔️ </br>• Resurgence ✔️ </br>• Blast Mine ✔️ |
+| ![Leon](https://imgur.com/CXPHsNm.png) | Leon Scot Kennedy | • Bite the Bullet </br> • Flashbang </br> • Rookie Spirit |
 
 
 
