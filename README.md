@@ -106,7 +106,7 @@
 | ![Jake](https://imgur.com/SfePMpN.png) | Jake Park | • Iron Will ✔️ </br>• Calm Spirit ✔️  </br>• Saboteur ✔️ |
 | ![Nea](https://imgur.com/i9r06CZ.png) | Nea Karlsson | • Balanced Landing ✔️ </br>• Urban Evasion ✔️ </br>• Streetwise ✔️ |
 | ![Laurie](https://imgur.com/A3njdQX.png) | Laurie Strode | • Sole Survivor ✔️ </br>• Object of Obsession ✔️ </br>• Decisive Strike ✔️ |
-| ![Ace](https://imgur.com/WDmdyPv.png) | Ace Visconti | • Open-Handed ✔️ </br>• Up the Ante</br>• Ace in the Hole |
+| ![Ace](https://imgur.com/WDmdyPv.png) | Ace Visconti | • Open-Handed ✔️ </br>• Up the Ante ✔️ </br>• Ace in the Hole ✔️ |
 | ![Bill](https://imgur.com/Z5IDYRw.png) | William "Bill" Overbeck | • Left Behind ✔️ </br>• Borrowed Time ✔️ </br>• Unbreakable ✔️ |
 | ![Feng](https://imgur.com/wlGEYJy.png) | Feng Min | • Technician ✔️ </br>• Lithe ✔️ </br>• Alert ✔️ |
 | ![David](https://imgur.com/yF4Qezw.png) | David King | • We're Gonna Live Forever ✔️ </br>• Dead Hard ✔️ </br>• No Mither ✔️ |
