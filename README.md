@@ -1,101 +1,3 @@
-# Perk Progression
-
-### Prestige III Meg Thomas
-- *Ace in the Hole*
-- 💜 Adrenaline
-- *Aftercare*
-- 💜 Alert
-- 💜 Any Means Necessary
-- 💜 Appraisal
-- *Autodidact*
-- *Babysitter*
-- 💜 Balanced Landing
-- 💜 Better Together
-- *Bite the Bullet*
-- *Blast Mine*
-- *Blood Pact*
-- 💜 Boil Over
-- *Bond*
-- 💜 Borrowed Time
-- 💜 Botany Knowledge
-- *Breakdown*
-- 💜 Breakout
-- *Buckle Up*
-- 💜 Built to Last
-- 💜 Calm Spirit
-- *Camaraderie*
-- 💜 Counterforce 
-- 💜 Dance With Me 
-- 💜 Dark Sense 
-- 💜 Dead Hard
-- 💜 Deception
-- 💜 Decisive Strike 
-- 💜 Déjà Vu 
-- *Deliverance*
-- *Desperate Measures*
-- *Detective's Hunch*
-- 💜 Distortion 
-- *Diversion*
-- 💜 Empathy
-- 💜 Fast Track 
-- 💜 Fixated
-- *Flashbang*
-- 💜 Flip-Flop
-- *For the People*
-- 💜 Head On
-- 💜 Hope
-- 💜 Inner Strength
-- 💜 Iron Will
-- 💜 Kindred
-- *Leader*
-- 💜 Left Behind
-- 💜 Lightweight
-- 💜 Lithe
-- 💜 Lucky Break
-- *Mettle of Man*
-- 💜 No Mither
-- 💜 No One Left Behind
-- 💜 Object of Obsession
-- *Off the Record*
-- *Open-Handed*
-- *Pharmacy*
-- 💜 Plunderer's Instinct
-- 💜 Power Struggle
-- 💜 Premonition
-- 💜 Prove Thyself
-- 💜 Quick & Quiet 
-- *Red Herring*
-- *Repressed Alliance*
-- 💜 Resilience 
-- *Resurgence*
-- *Rookie Spirit*
-- 💜 Saboteur
-- *Second Wind*
-- 💜 Self-Care
-- 💜 Self-Preservation
-- 💜 Slippery Meat
-- 💜 Small Game 
-- 💜 Smash Hit
-- 💜 Sole Survivor
-- 💜 Solidarity
-- *Soul Guard*
-- 💜 Spine Chill
-- 💜 Sprint Burst
-- *Stake Out*
-- 💜 Streetwise
-- 💜 Technician
-- *Tenacity*
-- 💜 This is Not Happening
-- 💜 Unbreakable
-- *Up the Ante*
-- 💜 Urban Evasion
-- *Vigil*
-- *Visionary*
-- *Wake Up!*
-- 💜 We'll Make It
-- 💜 We're Gonna Live Forever
-- 💜 Windows of Opportunity 
-
 ## Survivor
 
 | Portrait | Name | Base Perks |
@@ -110,7 +12,7 @@
 | ![Bill](https://imgur.com/Z5IDYRw.png) | William "Bill" Overbeck | • Left Behind ✔️ </br>• Borrowed Time ✔️ </br>• Unbreakable ✔️ |
 | ![Feng](https://imgur.com/wlGEYJy.png) | Feng Min | • Technician ✔️ </br>• Lithe ✔️ </br>• Alert ✔️ |
 | ![David](https://imgur.com/yF4Qezw.png) | David King | • We're Gonna Live Forever ✔️ </br>• Dead Hard ✔️ </br>• No Mither ✔️ |
-| ![Quentin](https://imgur.com/NaJJurO.png) | Quentin Smith | • Wake Up!</br>• Pharmacy</br>• Vigil |
+| ![Quentin](https://imgur.com/NaJJurO.png) | Quentin Smith | • Wake Up! ✔️ </br>• Pharmacy ✔️ </br>• Vigil ✔️ |
 | ![Tapp](https://imgur.com/cw66uRS.png) | David Tapp | • Tenacity</br>• Detective's Hunch</br>• Stake Out |
 | ![Kate](https://imgur.com/3mhJZ99.png) | Kate Denson | • Dance With Me ✔️ </br>• Windows of Opportunity ✔️ </br>• Boil Over ✔️  |
 | ![Adam](https://imgur.com/CVQGi2Y.png) | Adam Francis | • Diversion</br>• Deliverance</br>• Autodidact |
@@ -261,5 +163,102 @@
 ## Progression 
 
 
+# Perk Progression
+
+### Prestige III Meg Thomas
+- *Ace in the Hole*
+- 💜 Adrenaline
+- *Aftercare*
+- 💜 Alert
+- 💜 Any Means Necessary
+- 💜 Appraisal
+- *Autodidact*
+- *Babysitter*
+- 💜 Balanced Landing
+- 💜 Better Together
+- *Bite the Bullet*
+- *Blast Mine*
+- *Blood Pact*
+- 💜 Boil Over
+- *Bond*
+- 💜 Borrowed Time
+- 💜 Botany Knowledge
+- *Breakdown*
+- 💜 Breakout
+- *Buckle Up*
+- 💜 Built to Last
+- 💜 Calm Spirit
+- *Camaraderie*
+- 💜 Counterforce 
+- 💜 Dance With Me 
+- 💜 Dark Sense 
+- 💜 Dead Hard
+- 💜 Deception
+- 💜 Decisive Strike 
+- 💜 Déjà Vu 
+- *Deliverance*
+- *Desperate Measures*
+- *Detective's Hunch*
+- 💜 Distortion 
+- *Diversion*
+- 💜 Empathy
+- 💜 Fast Track 
+- 💜 Fixated
+- *Flashbang*
+- 💜 Flip-Flop
+- *For the People*
+- 💜 Head On
+- 💜 Hope
+- 💜 Inner Strength
+- 💜 Iron Will
+- 💜 Kindred
+- *Leader*
+- 💜 Left Behind
+- 💜 Lightweight
+- 💜 Lithe
+- 💜 Lucky Break
+- *Mettle of Man*
+- 💜 No Mither
+- 💜 No One Left Behind
+- 💜 Object of Obsession
+- *Off the Record*
+- *Open-Handed*
+- *Pharmacy*
+- 💜 Plunderer's Instinct
+- 💜 Power Struggle
+- 💜 Premonition
+- 💜 Prove Thyself
+- 💜 Quick & Quiet 
+- *Red Herring*
+- *Repressed Alliance*
+- 💜 Resilience 
+- *Resurgence*
+- *Rookie Spirit*
+- 💜 Saboteur
+- *Second Wind*
+- 💜 Self-Care
+- 💜 Self-Preservation
+- 💜 Slippery Meat
+- 💜 Small Game 
+- 💜 Smash Hit
+- 💜 Sole Survivor
+- 💜 Solidarity
+- *Soul Guard*
+- 💜 Spine Chill
+- 💜 Sprint Burst
+- *Stake Out*
+- 💜 Streetwise
+- 💜 Technician
+- *Tenacity*
+- 💜 This is Not Happening
+- 💜 Unbreakable
+- *Up the Ante*
+- 💜 Urban Evasion
+- *Vigil*
+- *Visionary*
+- *Wake Up!*
+- 💜 We'll Make It
+- 💜 We're Gonna Live Forever
+- 💜 Windows of Opportunity 
 
 
