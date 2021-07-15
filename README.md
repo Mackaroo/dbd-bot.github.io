@@ -13,7 +13,7 @@
 | ![Feng](https://imgur.com/wlGEYJy.png) | Feng Min | • Technician ✔️ </br>• Lithe ✔️ </br>• Alert ✔️ |
 | ![David](https://imgur.com/yF4Qezw.png) | David King | • We're Gonna Live Forever ✔️ </br>• Dead Hard ✔️ </br>• No Mither ✔️ |
 | ![Quentin](https://imgur.com/NaJJurO.png) | Quentin Smith | • Wake Up! ✔️ </br>• Pharmacy ✔️ </br>• Vigil ✔️ |
-| ![Tapp](https://imgur.com/cw66uRS.png) | David Tapp | • Tenacity</br>• Detective's Hunch</br>• Stake Out |
+| ![Tapp](https://imgur.com/cw66uRS.png) | David Tapp | • Tenacity ✔️ </br>• Detective's Hunch ✔️ </br>• Stake Out ✔️ |
 | ![Kate](https://imgur.com/3mhJZ99.png) | Kate Denson | • Dance With Me ✔️ </br>• Windows of Opportunity ✔️ </br>• Boil Over ✔️  |
 | ![Adam](https://imgur.com/CVQGi2Y.png) | Adam Francis | • Diversion</br>• Deliverance</br>• Autodidact |
 | ![Jeff](https://imgur.com/E036zbr.png) | Jeff Johansen | • Breakdown</br>• Aftercare</br>• Distortion ✔️ |
