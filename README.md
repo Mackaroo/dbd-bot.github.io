@@ -15,7 +15,7 @@
 | ![Quentin](https://imgur.com/NaJJurO.png) | Quentin Smith | • Wake Up! ✔️ </br>• Pharmacy ✔️ </br>• Vigil ✔️ |
 | ![Tapp](https://imgur.com/cw66uRS.png) | David Tapp | • Tenacity ✔️ </br>• Detective's Hunch ✔️ </br>• Stake Out ✔️ |
 | ![Kate](https://imgur.com/3mhJZ99.png) | Kate Denson | • Dance With Me ✔️ </br>• Windows of Opportunity ✔️ </br>• Boil Over ✔️  |
-| ![Adam](https://imgur.com/CVQGi2Y.png) | Adam Francis | • Diversion</br>• Deliverance</br>• Autodidact |
+| ![Adam](https://imgur.com/CVQGi2Y.png) | Adam Francis | • Diversion ✔️ </br>• Deliverance ✔️ </br>• Autodidact ✔️ |
 | ![Jeff](https://imgur.com/E036zbr.png) | Jeff Johansen | • Breakdown</br>• Aftercare</br>• Distortion ✔️ |
 | ![Jane](https://imgur.com/9A4uYlr.png) | Jane Romero | • Solidarity ✔️ </br>• Poised ✔️ </br>• Head On ✔️  |
 | ![Ash](https://imgur.com/NDPoGH2.png) | Ash Williams | • Flip-Flop ✔️ </br>• Buckle Up ✔️ </br>• Mettle of Man ✔️ |
